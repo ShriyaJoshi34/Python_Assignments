@@ -1,0 +1,27 @@
+INFO:Created Employee: a b -a.b@email.com
+INFO:Created Employee: abc xyz -abc.xyz@email.com
+INFO:Created Employee: jain doe -jain.doe@email.com
+INFO:Created Details: shriya joshi -good morning
+2019-12-21 13:07:22,864:INFO:Created Details: sakshi joshi -good evening
+2019-12-21 13:09:32,585:INFO:Created Details: aaa bbb -heyyy
+2019-12-21 13:10:20,632:INFO:Created Details: xxx yyy -zzz
+2019-12-21 13:15:17,636:DEBUG:Created Details: ccc ddd -eee
+2019-12-21 13:15:17,636:INFO:Created Details: ccc ddd -eee
+2019-12-21 13:16:35,841:DEBUG:Created Details: shtriya joshi -good morning
+2019-12-21 13:16:35,841:INFO:Created Details: shtriya joshi -good morning
+2019-12-21 13:16:35,842:WARNING:Created Details: shtriya joshi -good morning
+2019-12-21 13:16:35,843:ERROR:Created Details: shtriya joshi -good morning
+2019-12-21 13:18:17,211:DEBUG:Created Details: aaa eee -heyy
+2019-12-21 13:18:17,211:INFO:Created Details: aaa eee -heyy
+2019-12-21 13:19:57,295:DEBUG:Created Details: xyz abc -hello world
+2019-12-21 13:19:57,295:INFO:Created Details: xyz abc -hello world
+2019-12-21 13:19:57,296:WARNING:Created Details: xyz abc -hello world
+2019-12-21 13:19:57,296:ERROR:Created Details: There is an error
+2019-12-21 18:16:39,036:DEBUG:Created Details: aa aas -dfd
+2019-12-21 18:16:39,038:INFO:Created Details: aa aas -dfd
+2019-12-21 18:16:39,038:WARNING:Created Details: aa aas -dfd
+2019-12-21 18:16:39,038:ERROR:Created Details: There is an error
+2019-12-21 20:30:57,244:DEBUG:Created Details: abcd dsfvf -dffsvv
+2019-12-21 20:30:57,248:INFO:Created Details: abcd dsfvf -dffsvv
+2019-12-21 20:30:57,248:WARNING:Created Details: abcd dsfvf -dffsvv
+2019-12-21 20:30:57,248:ERROR:Created Details: There is an error
